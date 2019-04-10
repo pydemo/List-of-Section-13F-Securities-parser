@@ -6,7 +6,7 @@ Converts [List of Section 13F Securities](https://www.sec.gov/divisions/investme
 
 ### Other fin scripts
 
-[finra-Reg-SHO-Threshold-download](https://github.com/alexbuz/finra-Reg-SHO-Threshold-download)
+[finra-Reg-SHO-Threshold-download](https://github.com/pydemo/reg-sho-finra-download/blob/master/finra_download.py)
 
 
 
