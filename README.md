@@ -11,3 +11,6 @@ Converts [List of Section 13F Securities](https://www.sec.gov/divisions/investme
 
 
 https://www.quora.com/Is-there-a-Python-script-that-parses-List-of-Section-13F-Securities-into-CSV-file
+
+
+[<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">](https://www.buymeacoffee.com/0nJ32Xg)
